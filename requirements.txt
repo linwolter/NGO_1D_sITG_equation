@@ -1,0 +1,9 @@
+# Note: models developed with Python version 3.10.0
+numpy
+scipy
+matplotlib
+tqdm
+torch
+lightning
+opt-einsum
+pytorch-optimizer
